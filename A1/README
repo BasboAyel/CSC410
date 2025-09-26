@@ -1,0 +1,11 @@
+About: Sequential
+Date: September 26, 2025
+Comments: Includes nine files: arraysum.c, mainM.c, mainQ.c, mainSorts.c, matrixMul.h, nqueens.h, numIntegrate.c. sorts.c, sorts.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        cd folder-containing-the-files
+        code .
+*** 
+To compile: gcc filename
+To run: ./a.out
