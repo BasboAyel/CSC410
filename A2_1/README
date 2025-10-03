@@ -1,0 +1,10 @@
+About: 
+Date: October 02, 2025
+Comments: Includes three files:process_sums.c, seq_sum, starwars.c
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        cd folder-containing-the-files
+        code .
+*** 
+To compile: gcc filename -o filename
+To run: ./filename
