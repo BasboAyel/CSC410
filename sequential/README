@@ -1,0 +1,12 @@
+About: Midterm Part 1
+Date: October 16, 2025
+Comments: Includes three files: nqueens.c, rw.c, README
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        cd folder-containing-the-files
+        code .
+*** 
+To compile: gcc filename
+To run:  ./a.out
+To run time : time ./a.out
