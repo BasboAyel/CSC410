@@ -1,0 +1,11 @@
+About: Threads
+Date: October 26, 2025
+Comments: Includes nine files: main_merge.c, p_bubble_1.c, p_bubble_2.c, p_integrate.c, p_merge_pool.c, p_merge_seg.c, p_merge.c, p_merge.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        cd folder-containing-the-files
+        code .
+*** 
+To compile: gcc filename
+To run: ./a.out
