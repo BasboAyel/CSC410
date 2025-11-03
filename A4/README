@@ -1,0 +1,15 @@
+About: Sequential
+Date: November 2, 2025
+Comments: Includes sixteen files:arraySum.c, arraySum_pthread.c, arraySum_omp.c, matrixMul.c, matrixMul_pthread.c, matrixMul_omp.c, matrixMul.h, trapezoid.c, trapezoid_pthread.c, trapezoid_omp.c,
+nqueens.c, nqueens_pthread.c, nqueens_omp.c, nqueens.h, sorts.c, sorts.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        cd folder-containing-the-files
+        code .
+*** 
+To compile Pthreads: gcc filename.c -pthread -o programName
+
+To compile OpenMP: gcc filename.c -fopenmp -o programName
+
+To run: ./programName
