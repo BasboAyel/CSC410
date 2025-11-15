@@ -1,0 +1,12 @@
+About: MPI
+Date: November 15, 2025  
+
+Files: arraysum.c, arraysum.o, mainM.c, mainM_mpi.c, mainQ.c, mainSorts.c, matrixMul, matrixMul.h, matrixMul.h.gch, matrixMul_mpi, matrixMul_mpi.c, mpi_test, mpi_test.c, nqueens.h, numIntegrate, numIntegrate.o, numIntegrate.c, numIntegrate_mpi, numIntegrate_mpi.o, numIntegrate_mpi.c, prime, prime.o, prime.c, prime_mpi, prime_mpi.o, prime_mpi.c, README, sorts.c, sorts.h
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        cd folder-containing-the-files
+        code .
+*** 
+To compile: gcc filename
+To run: ./a.out
