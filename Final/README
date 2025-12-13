@@ -1,0 +1,10 @@
+About: 
+Date: December 02, 2025
+Comments: Includes five files: nbody_mpi.c, nbody_openmp.c, nbody_pthread.c, nBody.c, ocl_nbody
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        cd folder-containing-the-files
+        code .
+*** 
+To compile: gcc filename -o filename
+To run: ./filename
